@@ -1,0 +1,12 @@
+*{
+    color: black;
+}
+
+#container{
+    margin-top: 10%;
+}
+
+#container-chat{
+    background: gray;    
+    padding: 20px 100px;
+}
